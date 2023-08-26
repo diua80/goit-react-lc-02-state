@@ -33,5 +33,40 @@
         "level":"beginner",
         "time":"30",
         "questions":"10"
-    }    
+    }, 
+        {
+        "id":"6",
+        "topic":"JavaScript",
+        "level":"advanced",
+        "time":"20",
+        "questions":"10"
+    },
+        {
+        "id":"7",
+        "topic":"HTML+CSS",
+        "level":"intermediate",
+        "time":"20",
+        "questions":"12"
+    },
+    {
+        "id":"8",
+        "topic":"JavaScript",
+        "level":"advanced",
+        "time":"40",
+        "questions":"15"
+    },
+    {
+        "id":"9",
+        "topic":"React Native",
+        "level":"advanced",
+        "time":"30",
+        "questions":"10"
+    },
+       {
+        "id":"10",
+        "topic":"Type Script",
+        "level":"beginner",
+        "time":"30",
+        "questions":"10"
+    }     
 ]
